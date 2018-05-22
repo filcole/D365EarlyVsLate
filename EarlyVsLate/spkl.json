@@ -1,0 +1,44 @@
+{
+  "earlyboundtypes": [
+    {
+      /*
+      Comma seperate list of entity logical names.
+      I've not provided support for -all- entities because this results in unneccessarily large plugins!
+      */
+      "entities": "account",
+
+      /*
+      Comma seperated list of actions request/responses to generate - leave emtpty or ommit for none
+      */
+      "actions": "",
+
+      /* 
+      Set to 'true' to generate Enums for optionsets
+      */
+      "generateOptionsetEnums": "false",
+
+      /*
+      Set to 'true' to generate Enums for States and Statuses
+      */
+      "generateStateEnums": "false",
+      /*
+      Set to 'true' to generate Enums for Global optionsets
+      */
+      "generateGlobalOptionsets": false,
+      /*
+      The path (relative to this file) to output
+      */
+      "filename": "EarlyBoundTypes.cs",
+
+      /*
+      The namespace to put the classes under
+      */
+      "classNamespace": "EvL",
+
+      /*
+      The name of the Service context to create - leave blank or ommit for none
+      */
+      "serviceContextName": "XrmSvc"
+    }
+  ]
+}
