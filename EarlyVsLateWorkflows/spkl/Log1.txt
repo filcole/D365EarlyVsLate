@@ -1,0 +1,20 @@
+00:04:30	Deploying Custom Workflow Activities
+00:04:30	Searching for workflow config in 'C:\Dev\EarlyVsLate\EarlyVsLateWorkflows\spkl\..'
+00:04:31	Using Config 'C:\Dev\EarlyVsLate\EarlyVsLateWorkflows'
+00:04:31	Processed 1 config(s)
+00:11:18	Deploying Custom Workflow Activities
+00:11:18	Searching for workflow config in 'C:\Dev\EarlyVsLate\EarlyVsLateWorkflows\spkl\..'
+00:11:19	Using Config 'C:\Dev\EarlyVsLate\EarlyVsLateWorkflows'
+00:11:19	Processed 1 config(s)
+00:23:38	Deploying Custom Workflow Activities
+00:23:38	Searching for workflow config in 'C:\Dev\EarlyVsLate\EarlyVsLateWorkflows\spkl\..'
+00:23:39	Using Config 'C:\Dev\EarlyVsLate\EarlyVsLateWorkflows'
+00:23:39	Processed 1 config(s)
+00:27:17	Deploying Custom Workflow Activities
+00:27:17	Searching for workflow config in 'C:\Dev\EarlyVsLate\EarlyVsLateWorkflows\spkl\..'
+00:27:17	Using Config 'C:\Dev\EarlyVsLate\EarlyVsLateWorkflows'
+00:27:17	Processed 1 config(s)
+00:55:17	Deploying Custom Workflow Activities
+00:55:17	Searching for workflow config in 'C:\Dev\EarlyVsLate\EarlyVsLateWorkflows\spkl\..'
+00:55:17	Using Config 'C:\Dev\EarlyVsLate\EarlyVsLateWorkflows'
+00:55:17	Processed 1 config(s)
